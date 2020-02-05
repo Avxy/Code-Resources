@@ -284,6 +284,17 @@
 - [Programming in Scala by Martin Odersky- book](https://booksites.artima.com/programming_in_scala_2ed)
 - [Programming in Scala Forum](https://www.artima.com/forums/forum.jsp?forum=282)
 - [Scala School!](https://twitter.github.io/scala_school/index.html)
+- [Programming in Scala by Martin Odersky- book](https://booksites.artima.com/programming_in_scala_2ed)
+- [Scala School!](https://twitter.github.io/scala_school/index.html)
+- [The 99 Scala Problems](http://aperiodic.net/phil/scala/s-99/)
+- [Scala Glossary](https://docs.scala-lang.org/glossary/)
+- [Scala Blog](http://blog.higher-order.com/blog/2012/09/13/what-purity-is-and-isnt/)
+- [Blog pchiusano](https://pchiusano.github.io/)
+- [Blog tmorris](https://blog.tmorris.net/)
+- [Scala Labs](https://scala-labs.github.io/getting-started.html)
+- [Functional Programming Principles in Scala - Coursera](https://www.coursera.org/learn/progfun1)
+- [fpinscala](https://github.com/fpinscala/fpinscala)
+-[hackerrank Functional Programming](https://www.hackerrank.com/domains/fp)
 
 
 ## API
