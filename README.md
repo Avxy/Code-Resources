@@ -61,9 +61,15 @@
 - [A Programmer's Introduction to Mathematics](https://pimbook.org/)
 - [Learn Design and Code](https://iamsteve.me/)
 
+- [Software Construction on Java](http://web.mit.edu/6.005/www/fa15/)
+
 ### Useful No Free content
 
 - [Coding Faculty](http://codingfaculty.com/)
+
+### Compute Science and Software Engineer Constructions
+
+- [Recursion](https://www.freecodecamp.org/news/recursion-is-not-hard-858a48830d83/)
 
 ## Indentation e extra
 
@@ -295,6 +301,8 @@
 - [Functional Programming Principles in Scala - Coursera](https://www.coursera.org/learn/progfun1)
 - [fpinscala](https://github.com/fpinscala/fpinscala)
 -[hackerrank Functional Programming](https://www.hackerrank.com/domains/fp)
+- [The Neophytes guide to Scala](https://danielwestheide.com/books/the-neophytes-guide-to-scala/)
+- [From ES6 to Scala](https://www.scala-js.org/doc/sjs-for-js/es6-to-scala-part1.html)
 
 
 ## API
